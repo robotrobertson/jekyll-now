@@ -3,7 +3,7 @@ layout: post
 title: What I'm doing now
 ---
 
-I'm riding my road bike twice a week, diving deep into audio books and podcasts, and enjoying mortgage banking.  Also, enjoying coding in my spare time.
+I'm riding my road bike twice a week, diving deep into audio books and podcasts, and originating loans with LenderFi.  Also, I enjoy coding in my spare time.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
