@@ -12,6 +12,6 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[cdrobertson@gmail.com](mailto:email@domain.com)
+[cdrobertson@gmail.com](mailto:cdrobertson@gmail.com)
 
 [805-558-1568](<a href="tel:8055581568"</a>)
