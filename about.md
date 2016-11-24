@@ -14,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 [cdrobertson@gmail.com](mailto:cdrobertson@gmail.com)
 
-[805-558-1568](<a href="tel:8055581568"</a>)
+(<a href="tel:8055581568">805-558-1568</a>)
