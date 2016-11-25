@@ -4,5 +4,5 @@ title: Book Review
 ---
 Book review: Quick test for this blog post
 
-![My helpful screenshot]/images/yosemite.jpg
+![My helpful screenshot](/images/yosemite.jpg)
 
