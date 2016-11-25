@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Book Review
+title: Cool shot of Yosemite
 ---
-Book review: Quick test for this blog post
+
 
 ![My helpful screenshot](/images/yosemite.jpg)
 
-(/images/yosemite.jpg)
+Having a great time working in Jekyll
