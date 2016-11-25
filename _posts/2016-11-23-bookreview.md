@@ -6,3 +6,4 @@ Book review: Quick test for this blog post
 
 ![My helpful screenshot](/images/yosemite.jpg)
 
+(/images/yosemite.jpg)
