@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /contact/
+permalink: /Contact/
 ---
 
 Feel free to get in touch with me if you want to ride bikes, check mortgage rates, or simply network.  I welcome all requests.
