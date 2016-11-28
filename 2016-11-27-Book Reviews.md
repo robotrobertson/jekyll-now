@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Book Reviews
-permalink: /Book Reviews/
+permalink: /Bookreviews/
 ---
 
 ### Book Reviews coming soon!
