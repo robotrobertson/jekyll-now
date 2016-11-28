@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Book Reviews
 permalink: /Book Reviews/
 ---
