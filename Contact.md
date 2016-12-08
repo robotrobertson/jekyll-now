@@ -16,8 +16,7 @@ Feel free to get in touch with me if you want to ride bikes, check mortgage rate
 <script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
 <script type="text/javascript">
 new TradingView.widget({
-  "width": 980,
-  "height": 610,
+  "autosize": true,
   "symbol": "INDEX:TNX",
   "interval": "D",
   "timezone": "Etc/UTC",
