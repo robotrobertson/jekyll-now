@@ -18,10 +18,10 @@ Feel free to get in touch with me if you want to ride bikes, check mortgage rate
 new TradingView.widget({
   "autosize": true,
   "symbol": "INDEX:TNX",
-  "interval": "D",
+  "interval": "W",
   "timezone": "Etc/UTC",
   "theme": "White",
-  "style": "1",
+  "style": "3",
   "locale": "en",
   "toolbar_bg": "#f1f3f6",
   "enable_publishing": false,
