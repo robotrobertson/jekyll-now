@@ -1,6 +1,6 @@
 ---
 layout: default
-title: soundcloud
+title: Soundcloud
 ---
 
 This is a test of posting Soundcloud code:
