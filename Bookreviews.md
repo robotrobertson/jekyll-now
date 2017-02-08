@@ -3,6 +3,11 @@ layout: page
 title: Book Reviews
 permalink: /Bookreviews/
 ---
+<a href="https://www.goodreads.com/book/show/27.Neither_Here_nor_There" style="float: left; padding-right: 20px"><img border="0" alt="Neither Here nor There: Travels in Europe" src="https://images.gr-assets.com/books/1388187396m/27.jpg" /></a><a href="https://www.goodreads.com/book/show/27.Neither_Here_nor_There">Neither Here nor There: Travels in Europe</a> by <a href="https://www.goodreads.com/author/show/7.Bill_Bryson">Bill Bryson</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/1906922443">5 of 5 stars</a><br /><br />
+Amazing detail of his travels through Europe. Hilarious at times and extremely informative should you ever want to do a longer Europe trip. I'll read any Bill Bryson book, he's that good.
+<br/><br/>
+<a href="https://www.goodreads.com/review/list/47145024-david-robertson">View all my reviews</a>
 <a href="https://www.goodreads.com/book/show/25430691-the-power-of-broke" style="float: left; padding-right: 20px"><img border="0" alt="The Power of Broke: How Empty Pockets, a Tight Budget, and a Hunger for Success Can Become Your Greatest Competitive Advantage" src="https://images.gr-assets.com/books/1442840371m/25430691.jpg" /></a><a href="https://www.goodreads.com/book/show/25430691-the-power-of-broke">The Power of Broke: How Empty Pockets, a Tight Budget, and a Hunger for Success Can Become Your Greatest Competitive Advantage</a> by <a href="https://www.goodreads.com/author/show/556241.Daymond_John">Daymond John</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/1882720790">4 of 5 stars</a><br /><br />
 Definitely pick this book up. Daymond is a great storyteller and has some excellent examples of the power of broke. I think the most important and interesting is his own story. I won't give it away, but his childhood is very inspiring. Also one of the biggest pieces of advice I learned is to never take venture money. If Daymond took venture money early on for FUBU the 10,000 from the investor would have been worth 600 million dollars today. 
