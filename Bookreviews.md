@@ -3,6 +3,11 @@ layout: page
 title: Book Reviews
 permalink: /Bookreviews/
 ---
+<a href="https://www.goodreads.com/book/show/17859574-how-to-fail-at-almost-everything-and-still-win-big" style="float: left; padding-right: 20px"><img border="0" alt="How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life" src="https://images.gr-assets.com/books/1369823209m/17859574.jpg" /></a><a href="https://www.goodreads.com/book/show/17859574-how-to-fail-at-almost-everything-and-still-win-big">How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life</a> by <a href="https://www.goodreads.com/author/show/5282.Scott_Adams">Scott Adams</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/1906927362">5 of 5 stars</a><br /><br />
+This book is incredible. I'm going to give this to anyone graduating college, or just starting out. It gives you a feel for how the business world really works and how to succeed. I'm a big fan of Scott's saying "Goals are for losers, systems are for winners." It is much easier to follow and preserves your willpower. I was able to get some nutrition tips as well, he has some excellent ideas. Definitely check this book out.
+<br/><br/>
+<a href="https://www.goodreads.com/review/list/47145024-david-robertson">View all my reviews</a>
 <a href="https://www.goodreads.com/book/show/27.Neither_Here_nor_There" style="float: left; padding-right: 20px"><img border="0" alt="Neither Here nor There: Travels in Europe" src="https://images.gr-assets.com/books/1388187396m/27.jpg" /></a><a href="https://www.goodreads.com/book/show/27.Neither_Here_nor_There">Neither Here nor There: Travels in Europe</a> by <a href="https://www.goodreads.com/author/show/7.Bill_Bryson">Bill Bryson</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/1906922443">5 of 5 stars</a><br /><br />
 Amazing detail of his travels through Europe. Hilarious at times and extremely informative should you ever want to do a longer Europe trip. I'll read any Bill Bryson book, he's that good.
