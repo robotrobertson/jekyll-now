@@ -3,6 +3,10 @@ layout: page
 title: Book Reviews
 permalink: /Bookreviews/
 ---
+<a href="https://www.goodreads.com/book/show/32600757-angel" style="float: left; padding-right: 20px"><img border="0" alt="Angel: How to Invest in Technology Startups—Timeless Advice from an Angel Investor Who Turned $100,000 into $100,000,000" src="https://images.gr-assets.com/books/1494987737m/32600757.jpg" /></a><a href="https://www.goodreads.com/book/show/32600757-angel">Angel: How to Invest in Technology Startups—Timeless Advice from an Angel Investor Who Turned $100,000 into $100,000,000</a> by <a href="https://www.goodreads.com/author/show/15967757.Jason_Calacanis">Jason Calacanis</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/2141378058">5 of 5 stars</a><br /><br />
+Very quick read with honest advice on becoming an Angel investor. Great arguments on why being in Silicone Valley is crucial to being an Angel investor. Many actionable long term ideas are shared in this book. 
+<br/><br/>
 <a href="https://www.goodreads.com/book/show/26.The_Lost_Continent" style="float: left; padding-right: 20px"><img border="0" alt="The Lost Continent: Travels in Small Town America" src="https://images.gr-assets.com/books/1404042682m/26.jpg" /></a><a href="https://www.goodreads.com/book/show/26.The_Lost_Continent">The Lost Continent: Travels in Small Town America</a> by <a href="https://www.goodreads.com/author/show/7.Bill_Bryson">Bill Bryson</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/2137872263">4 of 5 stars</a><br /><br />
 Excellent book by Bill as always. I love how he longs for towns with a thriving main street, large movie theater and lack of cars. This book is thirty years old and our country has continued on with it's car culture and isolation in building new towns. I was very interested in visiting Charleston, South Carolina and Oxford, Mississippi as I think both of these towns have more of a community I've been craving. Also, although he pokes fun at Des Moines, it does sound charming to visit as well. Thank you Bill for being such a great tour guide!
