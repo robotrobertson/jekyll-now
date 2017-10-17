@@ -6,4 +6,4 @@ I've been pondering the total value of cars' depreciation since the inception of
 
 <a href="http://www.popularmechanics.com/cars/g556/10-hot-cars-that-depreciate-like-a-stock-market-crash">Popular Mechanics</a>
 
-It would be interesting to get a number on electronics companies and how much value they have destroyed as well.  Total cell phones purchased minus depreciation would be a very interesting number.  I have a lot of thinking to do on this.
+It would be interesting to get a number on electronics companies and how much value they have destroyed as well.  Total cell phones purchased minus depreciation would be a very interesting number.  Depreciation might not be the accurate description, as most people don't hold on to old phones.  It is almost a straight loss.
