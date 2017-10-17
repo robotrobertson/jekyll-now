@@ -1,7 +1,7 @@
 ---
-layout:post
-title:How to buy a car:
+layout: post
+title: How to buy a car:
 ---
 
-Important tips to buy a car
+Car buying steps:
 1.
