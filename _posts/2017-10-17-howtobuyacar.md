@@ -17,7 +17,7 @@ Car buying steps:
 9. This should generate a few emails each day with new posts fitting the criterea specified
 10. Contact the sellers generated from this search
 11. Arrange for a test drive
-12. Before meeting the seller log on to: <a href="https://www.kbb.com/">Kelley Blue Book</a>
+12. Before meeting the seller log on to: <a href="https://www.kbb.com">Kelley Blue Book</a>
 12. Enter in the details of the car
 13. When you meet the seller have two prices written down, the "trade-in" value and the good condition private party value
 14. If you like the car after the test drive offer somewhere between "trade-in" and good condition private party value
