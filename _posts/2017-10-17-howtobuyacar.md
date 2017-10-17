@@ -21,4 +21,6 @@ Car buying steps:
 12. Enter in the details of the car
 13. When you meet the seller have two prices written down, the "trade-in" value and the good condition private party value
 14. If you like the car after the test drive offer somewhere between "trade-in" and good condition private party value
-15. Success!
+15. Continue this process until you find a willing seller.
+16. Make sure to have cash and offer immediately after the test drive
+17. Keep going until you strike a deal with a willing seller
