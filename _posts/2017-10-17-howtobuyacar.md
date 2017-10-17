@@ -7,8 +7,8 @@ Car buying steps:
 2. Select "by owner"
 3. On the left hand side check "bundle duplicates"
 4. Enter the model you are looking for
-5. Enter a price minimum of 1200 or 1500 on the price minimum to weed out people who put $1 as the price.
-6. For mileage put 10,000 and the maximum to weed out people who put 1 or 270 for mileage (really meaning 270k!)
+5. Enter a price minimum of $1200 or $1500 on the price minimum to weed out people who put $1 as the price.
+6. For mileage put 10,000 for the minimum and your target top mileage as the maximum to weed out people who put 1 or 270 for mileage (really meaning 270k!)
 7. If your search yields sufficient results then copy the craigslist link
 8. Head over to IFTTT and copy the link to this Applet:
    <a href="https://ifttt.com/applets/CYpiZcew-get-an-email-whenever-a-new-craigslist-post-matches-your-search">Craigslist email</a>
