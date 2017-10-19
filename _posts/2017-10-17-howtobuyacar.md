@@ -1,8 +1,7 @@
 ---
 layout: post
-title: How to buy a car
+title: How to buy a car:
 ---
-Car buying steps:
 1. Log on to Craigslist and select "cars+trucks" in the for sale section
 2. Select "by owner"
 3. On the left hand side check "bundle duplicates"
