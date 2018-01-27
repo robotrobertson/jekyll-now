@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Book Reviews
-permalink: /Bookreviews/
+title: Photos
+permalink: /photos/
 ---
