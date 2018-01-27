@@ -3,6 +3,10 @@ layout: page
 title: Book Reviews
 permalink: /Bookreviews/
 ---
+<a href="https://www.goodreads.com/book/show/12369449-the-man-who-quit-money" style="float: left; padding-right: 20px"><img border="0" alt="The Man Who Quit Money" src="https://images.gr-assets.com/books/1436543040m/12369449.jpg" /></a><a href="https://www.goodreads.com/book/show/12369449-the-man-who-quit-money">The Man Who Quit Money</a> by <a href="https://www.goodreads.com/author/show/33549.Mark_Sundeen">Mark Sundeen</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/2274041933">4 of 5 stars</a><br /><br />
+Daniel Suelo's journey into living a life entirely without money. His upbringing is very interesting and there are a few moments in the book that completely blow your mind. Definitely check this one out and ignore the one star ratings.
+<br/><br/>
 <a href="https://www.goodreads.com/book/show/18505796-10-happier" style="float: left; padding-right: 20px"><img border="0" alt="10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works" src="https://images.gr-assets.com/books/1451446393m/18505796.jpg" /></a><a href="https://www.goodreads.com/book/show/18505796-10-happier">10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works</a> by <a href="https://www.goodreads.com/author/show/7890536.Dan_Harris">Dan   Harris</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/2274025179">5 of 5 stars</a><br /><br />
 Honest, engrossing journey through Dan Harris's mental breakdown on live television. I read this book in one day it was hard to put down. His journey into the world of meditation and religion really opens eyes, and there is a lot to learn from his book. Definitely adding to my list of books to re-read each year. This is the one book that prompted me to try meditation. It's fascinating how many of his co-workers meditate now. Thank you Dan!
