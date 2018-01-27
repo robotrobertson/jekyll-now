@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Photos
-permalink: /photos/
+permalink: /Photos/
 ---
-photos!
+Pictures
