@@ -3,6 +3,10 @@ layout: page
 title: Book Reviews
 permalink: /Bookreviews/
 ---
+<a href="https://www.goodreads.com/book/show/34427205-win-bigly" style="float: left; padding-right: 20px"><img border="0" alt="Win Bigly: Persuasion in a World Where Facts Don't Matter" src="https://images.gr-assets.com/books/1498810022m/34427205.jpg" /></a><a href="https://www.goodreads.com/book/show/34427205-win-bigly">Win Bigly: Persuasion in a World Where Facts Don't Matter</a> by <a href="https://www.goodreads.com/author/show/5282.Scott_Adams">Scott Adams</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/2274013185">5 of 5 stars</a><br /><br />
+Interesting, very shocking lens for viewing the election results. I remember watching the election and thinking to myself how did this happen? It has a number of valuable insights on persuasion that explain a lot of how 2016 played out. I also enjoy reading the reviews as this book divides a lot of people on hypnosis, persuasion, Scott Adams in general. Definitely read this one, but go in with a very open mind! His reading list at the end of the book is worth investigating too.
+<br/><br/>
 <a href="https://www.goodreads.com/book/show/32600757-angel" style="float: left; padding-right: 20px"><img border="0" alt="Angel: How to Invest in Technology Startups—Timeless Advice from an Angel Investor Who Turned $100,000 into $100,000,000" src="https://images.gr-assets.com/books/1494987737m/32600757.jpg" /></a><a href="https://www.goodreads.com/book/show/32600757-angel">Angel: How to Invest in Technology Startups—Timeless Advice from an Angel Investor Who Turned $100,000 into $100,000,000</a> by <a href="https://www.goodreads.com/author/show/15967757.Jason_Calacanis">Jason Calacanis</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/2141378058">5 of 5 stars</a><br /><br />
 Very quick read with honest advice on becoming an Angel investor. Great arguments on why being in Silicone Valley is crucial to being an Angel investor. Many actionable long term ideas are shared in this book. 
