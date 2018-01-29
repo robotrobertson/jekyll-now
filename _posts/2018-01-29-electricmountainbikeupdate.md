@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sunday Electric Mountain Bike Ride:
+title: Sunday Electric Mountain Bike Ride
 ---
 Wow, what a blast, ride three is in the books!  Dropping just two gears allows you to climb anything.
 The feeling of jamming up a fire road at 20 MPH is incredible.  Passing serious road bikers on the streets has it's own laugh factor too. 
