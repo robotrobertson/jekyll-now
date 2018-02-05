@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Electric Mountain Bike Ride Three
+title: Sunday Electric Mountain Bike Ride
 ---
 Because electric mountain bike is a bit long, it will now be known as EMB.  Sunday's ride was hot, but when you have the ability to 20 MPH quickly air conditioning is readily available.  I rode on Deerhill trail and went the uphill route.  It was the first time I heard some EMB trash talk,
 a runner and mountain bike rider were talking on the trail:
