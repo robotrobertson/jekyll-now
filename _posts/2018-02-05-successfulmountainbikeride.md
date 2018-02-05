@@ -6,7 +6,7 @@ Because electric mountain bike is a bit long, it will now be known as EMB.  Sund
 conditioning is readily available.  I rode on Deerhill trail and went the uphill route.  It was the first time I heard some EMB trash talk,
 a runner and mountain bike rider were talking on the trail:
 <br><br>
-Runner "Wow, he came up that hill fast."
+Runner "Wow, he came up that hill fast."<br><br>
 Mountain Biker "yeah, whatever his bike is electric."
 <br><br>
 If other people are jealous, I know I'm doing something worthwile.  Imagine the first time an automobile owner passed a horse rider
