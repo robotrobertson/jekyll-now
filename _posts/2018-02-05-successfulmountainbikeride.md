@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Successful Electric Mountain Bike Ride Number Three!
+title: Successful Electric Mountain Bike Ride Number Three
 ---
 Because electric mountain bike is a bit long, it will now be known as EMB.  Sunday's ride was hot, but when you have the ability to 20 MPH quickly, air
 conditioning is readily available.  I rode on Deerhill trail and went the uphill route.  It was the first time I heard some EMB trash talk,
