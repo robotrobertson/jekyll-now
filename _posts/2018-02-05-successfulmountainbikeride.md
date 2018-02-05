@@ -12,4 +12,4 @@ If other people are jealous, I know I'm doing something worthwile.  Imagine the 
 the horse rider must have said "Big deal, why would you want to get places quicker when you have a perfectly good horse."
 The main point of an EMB is going fast up hills.  I'm not sure this feeling of going 20 MPH uphill over rocks and rough terrain
 ever gets old.  You have the new ability to get through a ride much, much faster with a lot less strain on your body.  Looking forward
-to the next ride!
+to the next ride.
