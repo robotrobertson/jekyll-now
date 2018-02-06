@@ -7,4 +7,4 @@ I've added a 750 watt Bafang motor to a Diamond Back old school mountain bike I 
 The "before"
 ![bike](/images/bike.jpg)
 
-[get the pdf]({{"/images/resume.pdf" | absolute_url }})
+[get the pdf]({{ "/images/resume.pdf" | absolute_url }})
