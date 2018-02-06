@@ -8,5 +8,3 @@ Feel free to get in touch with me if you want to ride bikes, check mortgage rate
 [david@davidrobertson.co](mailto:david@davidrobertson.co)
 
 <a href="tel:8055581568">805-558-1568</a>
-<br><br>
-My Resume [get the PDF](/images/resume.pdf)
