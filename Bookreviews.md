@@ -3,6 +3,10 @@ layout: page
 title: Book Reviews
 permalink: /Bookreviews/
 ---
+<a href="https://www.goodreads.com/book/show/30689330-the-stranger-in-the-woods" style="float: left; padding-right: 20px"><img border="0" alt="The Stranger in the Woods: The Extraordinary Story of the Last True Hermit" src="https://images.gr-assets.com/books/1471283634m/30689330.jpg" /></a><a href="https://www.goodreads.com/book/show/30689330-the-stranger-in-the-woods">The Stranger in the Woods: The Extraordinary Story of the Last True Hermit</a> by <a href="https://www.goodreads.com/author/show/206768.Michael_Finkel">Michael Finkel</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/2293536692">5 of 5 stars</a><br /><br />
+Incredible story about a 20 year old who drove his Subaru Outback into the woods of Maine, parked it and lived undetected for 30 years. Gets into some really deep questions about being alone for extended times vs. being social. Christopher Knight is a fascinating character and I'm hoping things work out well for him in society. Highly recommended.
+<br/><br/>
 <a href="https://www.goodreads.com/book/show/33585396-side-hustle" style="float: left; padding-right: 20px"><img border="0" alt="Side Hustle: From Idea to Income in 27 Days" src="https://images.gr-assets.com/books/1498835207m/33585396.jpg" /></a><a href="https://www.goodreads.com/book/show/33585396-side-hustle">Side Hustle: From Idea to Income in 27 Days</a> by <a href="https://www.goodreads.com/author/show/3367145.Chris_Guillebeau">Chris Guillebeau</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/2291458532">4 of 5 stars</a><br /><br />
 Love the examples of people creating their own side hustle and turning it into something more. Also liked how many of the side hustle entrepreneurs still have their main corporate job. <br /><br />Most important pages are 34-35 where Chris lists ideas for starting a side hustle. <br /><br />Other key point: It can be a great idea to use some of the social services such as rover.com and fiverr.com to start your side hustle, then build and expand from there. 
