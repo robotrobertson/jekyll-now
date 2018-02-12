@@ -1,0 +1,8 @@
+---
+layout: post
+title: EMB Ride Five
+---
+Sunday February 11th, went to <a href="http://www.malibucreekstatepark.org/"Malibu Creek/> for EMB ride number five.  Weather was georgeous high
+and with the benefits of electricity I was able to go to the M.A.S.H. site and well beyond.  I rounded out the ride through
+Paramount Ranch at extreme high speeds.  To say this was fun is a huge understatement.  I climbed a hill at probably 9% grade with ease 
+laughing the entire time.  After the ride I had my Dad try my EMB.  He loved it.  I'm on a mission to get everyone into electric bikes.
