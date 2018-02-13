@@ -8,4 +8,4 @@ The "before"
 ![bike](/images/bike.jpg)
 <br><br>
 The "after"
-![emb](images/emb.jpg)
+![emb](/images/emb.jpg)
