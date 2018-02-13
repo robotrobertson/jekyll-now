@@ -6,3 +6,4 @@ Sunday February 11th, went to <a href="http://www.malibucreekstatepark.org">Mali
 Paramount Ranch at extreme high speeds.  To say this was fun is a huge understatement.  I climbed a 9% grade hill with ease laughing the entire time.  After the ride I had my Dad try my EMB.  He loved it.  I'm on a mission to get everyone into electric bikes.
 ![malibou](/images/malibou.jpg)
 ![malibu](/images/malibu.jpg)
+![paramount](/images/paramount.jpg)
