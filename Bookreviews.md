@@ -3,6 +3,10 @@ layout: page
 title: Book Reviews
 permalink: /Bookreviews/
 ---
+<a href="https://www.goodreads.com/book/show/32920300-way-of-the-wolf" style="float: left; padding-right: 20px"><img border="0" alt="Way of the Wolf: Become a Master Closer with Straight Line Selling" src="https://images.gr-assets.com/books/1483696858m/32920300.jpg" /></a><a href="https://www.goodreads.com/book/show/32920300-way-of-the-wolf">Way of the Wolf: Become a Master Closer with Straight Line Selling</a> by <a href="https://www.goodreads.com/author/show/289953.Jordan_Belfort">Jordan Belfort</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/2327612975">3 of 5 stars</a><br /><br />
+I was expecting a bit more from this book. I loved his first book and the follow up, and this book seems fairly basic with mostly general sales tips. I did learn a good idea; associate a smell with your highest state and next time you need to be "on your game" bring that same smell with you and blast those nostrils. Other than that probably could have skipped this one.
+<br/><br/>
 <a href="https://www.goodreads.com/book/show/34536488-principles" style="float: left; padding-right: 20px"><img border="0" alt="Principles: Life and Work" src="https://images.gr-assets.com/books/1503365703m/34536488.jpg" /></a><a href="https://www.goodreads.com/book/show/34536488-principles">Principles: Life and Work</a> by <a href="https://www.goodreads.com/author/show/5289593.Ray_Dalio">Ray Dalio</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/2327605256">5 of 5 stars</a><br /><br />
 Inspiring look into the mind of Ray Dalio and how he operates. Very actionable advice both for running a company and for personal use. Definitely worth reading and I've downloaded Principles and refer to them daily. Thank you Ray!
