@@ -3,6 +3,10 @@ layout: page
 title: Book Reviews
 permalink: /Bookreviews/
 ---
+<a href="https://www.goodreads.com/book/show/34536488-principles" style="float: left; padding-right: 20px"><img border="0" alt="Principles: Life and Work" src="https://images.gr-assets.com/books/1503365703m/34536488.jpg" /></a><a href="https://www.goodreads.com/book/show/34536488-principles">Principles: Life and Work</a> by <a href="https://www.goodreads.com/author/show/5289593.Ray_Dalio">Ray Dalio</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/2327605256">5 of 5 stars</a><br /><br />
+Inspiring look into the mind of Ray Dalio and how he operates. Very actionable advice both for running a company and for personal use. Definitely worth reading and I've downloaded Principles and refer to them daily. Thank you Ray!
+<br/><br/>
 <a href="https://www.goodreads.com/book/show/30689330-the-stranger-in-the-woods" style="float: left; padding-right: 20px"><img border="0" alt="The Stranger in the Woods: The Extraordinary Story of the Last True Hermit" src="https://images.gr-assets.com/books/1471283634m/30689330.jpg" /></a><a href="https://www.goodreads.com/book/show/30689330-the-stranger-in-the-woods">The Stranger in the Woods: The Extraordinary Story of the Last True Hermit</a> by <a href="https://www.goodreads.com/author/show/206768.Michael_Finkel">Michael Finkel</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/2293536692">5 of 5 stars</a><br /><br />
 Incredible story about a 20 year old who drove his Subaru Outback into the woods of Maine, parked it and lived undetected for 30 years. Gets into some really deep questions about being alone for extended times vs. being social. Christopher Knight is a fascinating character and I'm hoping things work out well for him in society. Highly recommended.
