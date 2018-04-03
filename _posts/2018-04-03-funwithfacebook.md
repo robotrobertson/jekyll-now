@@ -9,5 +9,5 @@ personality type, satisfaction with life, gender, age, sexual preference, intere
 
 1. Delete Facebook and Twitter off of your phone right now.  Simple! While you are are at it, lower your phone's data plan and save some money.
 
-2. Go into your Facebook account and have some fun! Change your profile, like off the wall stuff and completely change your identity.  If enough people make Facebook's data worthless, we solve the privacy issues. Who cares if Cambridge Analytica thinks I'm really into cults and potted plants. Also this has a bonus effect as targeted marketing will skip me altogether, removing the temptation to buy stuff.
+2. Go into your Facebook account and have some fun! Change your profile, like off the wall stuff and completely change your identity.  If enough people make Facebook's data worthless, we solve the privacy issues. Who cares if Cambridge Analytica thinks you are into cults and potted plants?! Also this has a bonus effect as clever, targeted marketing will be selling you based   me altogether, removing the temptation to buy stuff.
 Win! Win! Win! 
