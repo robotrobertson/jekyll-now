@@ -14,5 +14,5 @@ I don't think we are as helpless in online data tracking as everyone(or the news
 
 2nd: Go into your Facebook account and have some fun! Change your profile, like off the wall stuff and completely change your identity.  If enough
 people make Facebook's data worthless, we solve the privacy issues!  Who cares if Cambridge Analytica thinks I'm really into cults and potted plants!
-Also this has another bonus effect as targeted really smart marketing will skip me altogether, removing the temptation to buy stuff.
+Also this has a bonus effect as targeted marketing will skip me altogether, removing the temptation to buy stuff.
 Win! Win! Win! 
