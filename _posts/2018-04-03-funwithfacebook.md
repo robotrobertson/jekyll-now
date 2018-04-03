@@ -10,7 +10,7 @@ personality type, satisfaction with life, gender, age, sexual preference, intere
 
 I don't think we are as helpless in online data tracking as everyone(or the news) thinks.  Here is what I propose to fix these problems.
 
-1st: Delete Facebook and Twitter off of your phone right now.  Simple! While you are are at it lower your phone's data plan and save some money.
+1st: Delete Facebook and Twitter off of your phone right now.  Simple! While you are are at it, lower your phone's data plan and save some money.
 
 2nd: Go into your Facebook account and have some fun! Change your profile, like off the wall stuff and completely change your identity.  If enough
 people make Facebook's data worthless, we solve the privacy issues!  Who cares if Cambridge Analytica thinks I'm really into cults and potted plants!
