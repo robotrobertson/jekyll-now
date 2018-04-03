@@ -3,6 +3,10 @@ layout: page
 title: Book Reviews
 permalink: /Bookreviews/
 ---
+<a href="https://www.goodreads.com/book/show/35098726-meet-the-frugalwoods" style="float: left; padding-right: 20px"><img border="0" alt="Meet the Frugalwoods: Achieving Financial Independence Through Simple Living" src="https://images.gr-assets.com/books/1502098874m/35098726.jpg" /></a><a href="https://www.goodreads.com/book/show/35098726-meet-the-frugalwoods">Meet the Frugalwoods: Achieving Financial Independence Through Simple Living</a> by <a href="https://www.goodreads.com/author/show/16820002.Elizabeth_Willard_Thames">Elizabeth Willard Thames</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/2349195451">5 of 5 stars</a><br /><br />
+This is the go to book I'm going to give to anyone graduating college or in their early twenties. So many great lessons in here and I love her writing style. I've also become a big fan of the blog frugalwoods.com. I'm probably going to break my library rule and end up buying this book as I keep referring to is so often. Thank you Nate and Liz!
+<br/><br/>
 <a href="https://www.goodreads.com/book/show/32920300-way-of-the-wolf" style="float: left; padding-right: 20px"><img border="0" alt="Way of the Wolf: Become a Master Closer with Straight Line Selling" src="https://images.gr-assets.com/books/1483696858m/32920300.jpg" /></a><a href="https://www.goodreads.com/book/show/32920300-way-of-the-wolf">Way of the Wolf: Become a Master Closer with Straight Line Selling</a> by <a href="https://www.goodreads.com/author/show/289953.Jordan_Belfort">Jordan Belfort</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/2327612975">3 of 5 stars</a><br /><br />
 I was expecting a bit more from this book. I loved his first book and the follow up, and this book seems fairly basic with mostly general sales tips. I did learn a good idea; associate a smell with your highest state and next time you need to be "on your game" bring that same smell with you and blast those nostrils. Other than that probably could have skipped this one.
