@@ -3,6 +3,10 @@ layout: page
 title: Book Reviews
 permalink: /Bookreviews/
 ---
+<a href="https://www.goodreads.com/book/show/35792795-this-land-is-our-land" style="float: left; padding-right: 20px"><img border="0" alt="This Land Is Our Land: How We Lost the Right to Roam and How to Take It Back" src="https://images.gr-assets.com/books/1501502918m/35792795.jpg" /></a><a href="https://www.goodreads.com/book/show/35792795-this-land-is-our-land">This Land Is Our Land: How We Lost the Right to Roam and How to Take It Back</a> by <a href="https://www.goodreads.com/author/show/6464931.Ken_Ilgunas">Ken Ilgunas</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/2370556762">4 of 5 stars</a><br /><br />
+Interesting topic, not widely covered anywhere else. I love Walden on Wheels so much and hope Ken's next book he will cover his adventures from his point of view. Good eye opening facts, but a little dry at times and reads a bit like a textbook. I did learn a lot, but was a little rougher getting through than his other two excellent books, Walden on Wheels, and Trespassing Across America. Keep 'em coming Ken!
+<br/><br/>
 <a href="https://www.goodreads.com/book/show/35098726-meet-the-frugalwoods" style="float: left; padding-right: 20px"><img border="0" alt="Meet the Frugalwoods: Achieving Financial Independence Through Simple Living" src="https://images.gr-assets.com/books/1502098874m/35098726.jpg" /></a><a href="https://www.goodreads.com/book/show/35098726-meet-the-frugalwoods">Meet the Frugalwoods: Achieving Financial Independence Through Simple Living</a> by <a href="https://www.goodreads.com/author/show/16820002.Elizabeth_Willard_Thames">Elizabeth Willard Thames</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/2349195451">5 of 5 stars</a><br /><br />
 This is the go to book I'm going to give to anyone graduating college or in their early twenties. So many great lessons in here and I love her writing style. I've also become a big fan of the blog frugalwoods.com. I'm probably going to break my library rule and end up buying this book as I keep referring to is so often. Thank you Nate and Liz!
