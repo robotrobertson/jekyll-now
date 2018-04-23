@@ -3,6 +3,10 @@ layout: page
 title: Book Reviews
 permalink: /Bookreviews/
 ---
+<a href="https://www.goodreads.com/book/show/6463908-reminiscenses-of-a-stock-operator" style="float: left; padding-right: 20px"><img border="0" alt="Reminiscenses of A Stock Operator" src="https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png" /></a><a href="https://www.goodreads.com/book/show/6463908-reminiscenses-of-a-stock-operator">Reminiscenses of A Stock Operator</a> by <a href="https://www.goodreads.com/author/show/58151.Edwin_Lef_vre">Edwin Lefèvre</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/2370577922">5 of 5 stars</a><br /><br />
+Incredible book, must read if you have any interest in the stock market. Great insightful comments from a lot of the reviewers as well. Can't wait to read it again.
+<br/><br/>
 <a href="https://www.goodreads.com/book/show/35792795-this-land-is-our-land" style="float: left; padding-right: 20px"><img border="0" alt="This Land Is Our Land: How We Lost the Right to Roam and How to Take It Back" src="https://images.gr-assets.com/books/1501502918m/35792795.jpg" /></a><a href="https://www.goodreads.com/book/show/35792795-this-land-is-our-land">This Land Is Our Land: How We Lost the Right to Roam and How to Take It Back</a> by <a href="https://www.goodreads.com/author/show/6464931.Ken_Ilgunas">Ken Ilgunas</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/2370556762">4 of 5 stars</a><br /><br />
 Interesting topic, not widely covered anywhere else. I love Walden on Wheels so much and hope Ken's next book he will cover his adventures from his point of view. Good eye opening facts, but a little dry at times and reads a bit like a textbook. I did learn a lot, but was a little rougher getting through than his other two excellent books, Walden on Wheels, and Trespassing Across America. Keep 'em coming Ken!
