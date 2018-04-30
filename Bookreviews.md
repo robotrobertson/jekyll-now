@@ -3,6 +3,10 @@ layout: page
 title: Book Reviews
 permalink: /Bookreviews/
 ---
+<a href="https://www.goodreads.com/book/show/34068480-nomadland" style="float: left; padding-right: 20px"><img border="0" alt="Nomadland: Surviving America in the Twenty-First Century" src="https://images.gr-assets.com/books/1487351616m/34068480.jpg" /></a><a href="https://www.goodreads.com/book/show/34068480-nomadland">Nomadland: Surviving America in the Twenty-First Century</a> by <a href="https://www.goodreads.com/author/show/231013.Jessica_Bruder">Jessica Bruder</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/2377517496">5 of 5 stars</a><br /><br />
+Excellent investigative journalism by Jessica Bruder. Eye opening and shocking at times. I wasn't aware Amazon had sweatshops through Camperforce, nor did I really appreciate the struggle of finding work as you age. Definitely scary and eye opening. Looking forward to keeping up with Linda May the main character as she builds her earth home near Douglas, AZ. Thank you Jessica!
+<br/><br/>
 <a href="https://www.goodreads.com/book/show/6463908-reminiscenses-of-a-stock-operator" style="float: left; padding-right: 20px"><img border="0" alt="Reminiscenses of A Stock Operator" src="https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png" /></a><a href="https://www.goodreads.com/book/show/6463908-reminiscenses-of-a-stock-operator">Reminiscenses of A Stock Operator</a> by <a href="https://www.goodreads.com/author/show/58151.Edwin_Lef_vre">Edwin Lefèvre</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/2370577922">5 of 5 stars</a><br /><br />
 Incredible book, must read if you have any interest in the stock market. Great insightful comments from a lot of the reviewers as well. Can't wait to read it again.
