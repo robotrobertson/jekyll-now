@@ -3,6 +3,10 @@ layout: page
 title: Book Reviews
 permalink: /Bookreviews/
 ---
+<a href="https://www.goodreads.com/book/show/36681909-conspiracy" style="float: left; padding-right: 20px"><img border="0" alt="Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue" src="https://images.gr-assets.com/books/1511922947m/36681909.jpg" /></a><a href="https://www.goodreads.com/book/show/36681909-conspiracy">Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue</a> by <a href="https://www.goodreads.com/author/show/5775580.Ryan_Holiday">Ryan Holiday</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/2381699095">2 of 5 stars</a><br /><br />
+I'm a big Ryan Holiday fan. I love his reading list and have read all of his books. For whatever reason, I couldn't get into this one. The subject matter was very uninteresting, and I skimmed and wasn't able to finish it. Maybe it was a lack of energy on my part or I'm not that interested in Peter Thiel, Nick Denton, Gawker or Hulk Hogan. I'd say pass on this one and read his others.
+<br/><br/>
 <a href="https://www.goodreads.com/book/show/34068480-nomadland" style="float: left; padding-right: 20px"><img border="0" alt="Nomadland: Surviving America in the Twenty-First Century" src="https://images.gr-assets.com/books/1487351616m/34068480.jpg" /></a><a href="https://www.goodreads.com/book/show/34068480-nomadland">Nomadland: Surviving America in the Twenty-First Century</a> by <a href="https://www.goodreads.com/author/show/231013.Jessica_Bruder">Jessica Bruder</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/2377517496">5 of 5 stars</a><br /><br />
 Excellent investigative journalism by Jessica Bruder. Eye opening and shocking at times. I wasn't aware Amazon had sweatshops through Camperforce, nor did I really appreciate the struggle of finding work as you age. Definitely scary and eye opening. Looking forward to keeping up with Linda May the main character as she builds her earth home near Douglas, AZ. Thank you Jessica!
