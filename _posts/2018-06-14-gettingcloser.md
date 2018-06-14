@@ -3,8 +3,8 @@ layout: post
 title: Getting Closer
 ---
 The Federal Reserve raised the discount rate .25 point yesterday and signaled two more rate hikes are coming by the end of the year.  The yield curve is 
-getting really close to inverted which is one of the best indicators of recession or big drop in the stock market.  The tricky part is it might take
-a while to realize the recession is coming or that liquidity is leaving the system.  I remember things seemed crazy high in 2006 and absurd 
+getting really close to inverted which is one of the best indicators of recession or big drop in the stock market.  The tricky part is it could take
+a LONG TIME for the market to drop.  I remember things seemed crazy high in 2006 and absurd 
 in 2007, but it took all the way until 2008 in September for the big drops in the market and finally the bottom in March 2009.  So...what's the move from here?
 Here's my best guess...keep money in the market and continue to add to it.  Know and be ready that asset prices will be dropping in the next three years
 and this is where your bonds will be useful to bring our asset allocation back to even.  Also, get ready to turn the 401k contribution knob up when values start dropping.
