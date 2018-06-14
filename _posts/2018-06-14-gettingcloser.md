@@ -2,7 +2,7 @@
 layout: post
 title: Getting Closer
 ---
-The Federal Reserve raised the discount rate .25 point yesterday and signaled two more are coming by the end of the year.  The yield curve is 
+The Federal Reserve raised the discount rate .25 point yesterday and signaled two more rate hikes are coming by the end of the year.  The yield curve is 
 getting really close to inverted which is one of the best indicators of recession or big drop in the stock market.  The tricky part is it might take
 a while to realize the recession is coming or that liquidity is leaving the system.  I remember things seemed crazy high in 2006 and absurd 
 in 2007, but it took all the way until 2008 in September for the big drops in the market and finally the bottom in March 2009.  So...what's the move from here?
