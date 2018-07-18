@@ -14,16 +14,15 @@ A few observations
 7. Energy levels have improved especially in the evening.  I feel I'm focused when I'm off work and fully awake until bedtime.
 8. Blood pressure 141/90 June 18th 
 9. Blood pressure 127/82 July 18th
-   A 14 Systolic drop in blood pressure an 8 point drop in diastolic in one month! Truly impressive.  Also I'm curious to see if these numbers
-   keep coming down as my body heals from the damage I was doing to it with all the bad stuff I was eating.
-10. I didn't track my weight, but clothes are fitting looser.  
-11. It's harder to quantify my workouts which are bike rides and running, but I think I'm getting faster.  It does feel like my recovery time and soreness
+10. A 14 Systolic drop in blood pressure an 8 point drop in diastolic in one month! Truly impressive.  Also I'm curious to see if these numbers keep coming down as my body heals from the damage I was doing to it with all the bad stuff I was eating.
+11. I didn't track my weight, but clothes are fitting looser.  
+12. It's harder to quantify my workouts which are bike rides and running, but I think I'm getting faster.  It does feel like my recovery time and soreness
 have dropped fairly substantially( I am 40 years old after all!)
-12. May blood work (Essentially your average fat American)
-13. Cholesterol: 199
-14.  LDL 120
-15.  HDL 45
-16. Blood Glucose: 98
-17. BMI: 30.4
-18. Triglycerides: 215
-19. Blood pressure: 138/83
+13. May blood work (Essentially your average fat American)
+14. Cholesterol: 199
+15.  LDL 120
+16.  HDL 45
+17. Blood Glucose: 98
+18. BMI: 30.4
+19. Triglycerides: 215
+20. Blood pressure: 138/83
