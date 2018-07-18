@@ -3,9 +3,7 @@ layout: post
 title: Whole food plant-based diet
 ---
 It's been a month since I switched to a whole food plant-based diet.  It's been very interesting.
-
 A few observations
-
 1.  I went a day without coffee on a Sunday.  I haven't gone a day without coffee EVER.  This is crazy.
 2.  Sometimes I crave wine or beer.  These cravings really subsided.  It's weird.  Now I have a hard time finishing a glass of wine.
     My coffee sits on my desk and I rarely finish it.  I'll be at the store and a 6 pack of beer repulses me.
@@ -21,7 +19,6 @@ A few observations
 10. I didn't track my weight, but clothes are fitting looser.  
 11. It's harder to quantify my workouts which are bike rides and running, but I think I'm getting faster.  It does feel like my recovery time and soreness
 have dropped fairly substantially( I am 40 years old after all!)
-
 May blood work (Essentially your average fat American)
 Cholesterol: 199
   LDL 120
