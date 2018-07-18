@@ -19,11 +19,11 @@ A few observations
 10. I didn't track my weight, but clothes are fitting looser.  
 11. It's harder to quantify my workouts which are bike rides and running, but I think I'm getting faster.  It does feel like my recovery time and soreness
 have dropped fairly substantially( I am 40 years old after all!)
-12.May blood work (Essentially your average fat American)
-13.Cholesterol: 199
+12. May blood work (Essentially your average fat American)
+13. Cholesterol: 199
 14.  LDL 120
 15.  HDL 45
-16.Blood Glucose: 98
-17.BMI: 30.4
-18.Triglycerides: 215
-19.Blood pressure: 138/83
+16. Blood Glucose: 98
+17. BMI: 30.4
+18. Triglycerides: 215
+19. Blood pressure: 138/83
