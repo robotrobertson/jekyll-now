@@ -17,7 +17,7 @@ A few observations
 10. A 14 point systolic drop in blood pressure an 8 point drop in diastolic in one month is exciting.  Also I'm curious to see if these numbers keep coming down as my body heals from the damage I was doing to it with all the bad stuff I was eating.
 11. I didn't track my weight, but clothes are fitting looser.  
 12. It's harder to quantify my workouts which are bike rides and running, but I think I'm getting faster.  It does feel like my recovery time and soreness
-have dropped fairly substantially( I am 40 years old after all!)
+have dropped fairly substantially (I am 40 years old after all!)
 13. Shown below is May blood work (Essentially your average fat American)
 14. Cholesterol: 199
 15.  LDL 120
