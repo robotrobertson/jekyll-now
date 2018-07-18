@@ -12,9 +12,9 @@ A few observations
 5. I now drink coffee straight(when I drink it)
 6. I have this sense of wellness and thankfulness that comes in my thoughts from time to time
 7. Energy levels have improved especially in the evening.  I feel I'm focused when I'm off work and fully awake until bedtime.
-8. Blood pressure 141/90 June 18th 
-9. Blood pressure 127/82 July 18th
-10. A 14 Systolic drop in blood pressure an 8 point drop in diastolic in one month! Truly impressive.  Also I'm curious to see if these numbers keep coming down as my body heals from the damage I was doing to it with all the bad stuff I was eating.
+8. June 18th Blood pressure 141/90  
+9. July 18th Blood pressure 127/82 
+10. A 14 point systolic drop in blood pressure an 8 point drop in diastolic in one month is exciting.  Also I'm curious to see if these numbers keep coming down as my body heals from the damage I was doing to it with all the bad stuff I was eating.
 11. I didn't track my weight, but clothes are fitting looser.  
 12. It's harder to quantify my workouts which are bike rides and running, but I think I'm getting faster.  It does feel like my recovery time and soreness
 have dropped fairly substantially( I am 40 years old after all!)
