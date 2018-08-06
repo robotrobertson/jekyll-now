@@ -5,6 +5,11 @@ permalink: /Bookreviews/
 ---
 <a href="https://www.goodreads.com/book/show/25663961-how-not-to-die" style="float: left; padding-right: 20px"><img border="0" alt="How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease" src="https://images.gr-assets.com/books/1436292289m/25663961.jpg" /></a><a href="https://www.goodreads.com/book/show/25663961-how-not-to-die">How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease</a> by <a href="https://www.goodreads.com/author/show/352513.Michael_Greger">Michael Greger</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/2484534479">5 of 5 stars</a><br /><br />
+
+<br/><br/>
+<a href="https://www.goodreads.com/review/list/47145024-david-robertson">View all my reviews</a>
+
+
 <a href="https://www.goodreads.com/book/show/36681909-conspiracy" style="float: left; padding-right: 20px"><img border="0" alt="Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue" src="https://images.gr-assets.com/books/1511922947m/36681909.jpg" /></a><a href="https://www.goodreads.com/book/show/36681909-conspiracy">Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue</a> by <a href="https://www.goodreads.com/author/show/5775580.Ryan_Holiday">Ryan Holiday</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/2381699095">2 of 5 stars</a><br /><br />
 I'm a big Ryan Holiday fan. I love his reading list and have read all of his books. For whatever reason, I couldn't get into this one. The subject matter was very uninteresting, and I skimmed and wasn't able to finish it. Maybe it was a lack of energy on my part or I'm not that interested in Peter Thiel, Nick Denton, Gawker or Hulk Hogan. I'd say pass on this one and read his others.
