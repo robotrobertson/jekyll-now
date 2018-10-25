@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /Contact/
 ---
-Feel free to get in touch with me if you want to ride bikes, check mortgage rates or network.
+Feel free to get in touch to trail run or ride bikes:
 
 [david@davidrobertson.co](mailto:david@davidrobertson.co)
 
