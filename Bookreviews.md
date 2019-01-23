@@ -3,6 +3,10 @@ layout: page
 title: Book Reviews
 permalink: /Bookreviews/
 ---
+<a href="https://www.goodreads.com/book/show/38900866-it-doesn-t-have-to-be-crazy-at-work" style="float: left; padding-right: 20px"><img border="0" alt="It Doesn't Have to Be Crazy at Work" src="https://images.gr-assets.com/books/1526057292m/38900866.jpg" /></a><a href="https://www.goodreads.com/book/show/38900866-it-doesn-t-have-to-be-crazy-at-work">It Doesn't Have to Be Crazy at Work</a> by <a href="https://www.goodreads.com/author/show/60619.Jason_Fried">Jason Fried</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/2686232188">4 of 5 stars</a><br /><br />
+Excellent read to realize and understand what work could actually be like. I'm missing out on a lot of things at my current job. The perks at 37 Signals are unreal. Definitely a book I'll refer to again to design my own company or where to find employment. 
+<br/><br/>
 <a href="https://www.goodreads.com/book/show/38901702-lab-rats" style="float: left; padding-right: 20px"><img border="0" alt="Lab Rats: How Silicon Valley Made Work Miserable for the Rest of Us" src="https://images.gr-assets.com/books/1529544098m/38901702.jpg" /></a><a href="https://www.goodreads.com/book/show/38901702-lab-rats">Lab Rats: How Silicon Valley Made Work Miserable for the Rest of Us</a> by <a href="https://www.goodreads.com/author/show/138362.Dan_Lyons">Dan Lyons</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/2686220765">4 of 5 stars</a><br /><br />
 As an employee of a company guilty of many of these practices, this book is a must read. Thank you for shining a light on such employer abuses and to show that there is a better way. Treat people better and good things will happen. Also very interesting how it seems the VC grow at all costs model might be running out of steam. Sparked me to read "It Doesn't Have to Be Crazy at Work" by Jason Fried and DHH, an excellent book describing how work should be and something to aim for. Thank you Dan!!!
