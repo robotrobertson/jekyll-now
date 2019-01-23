@@ -3,7 +3,7 @@ layout: post
 title: New Friend Filter
 ---
 I've moved to a new area and am looking for friends.  With my recent changes I'm looking for:
-</br></br>
+<br><br>
 
 1. Vegan/whole food plant-pased
 2. Loves bike riding
