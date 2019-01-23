@@ -3,6 +3,10 @@ layout: page
 title: Book Reviews
 permalink: /Bookreviews/
 ---
+<a href="https://www.goodreads.com/book/show/38901702-lab-rats" style="float: left; padding-right: 20px"><img border="0" alt="Lab Rats: How Silicon Valley Made Work Miserable for the Rest of Us" src="https://images.gr-assets.com/books/1529544098m/38901702.jpg" /></a><a href="https://www.goodreads.com/book/show/38901702-lab-rats">Lab Rats: How Silicon Valley Made Work Miserable for the Rest of Us</a> by <a href="https://www.goodreads.com/author/show/138362.Dan_Lyons">Dan Lyons</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/2686220765">4 of 5 stars</a><br /><br />
+As an employee of a company guilty of many of these practices, this book is a must read. Thank you for shining a light on such employer abuses and to show that there is a better way. Treat people better and good things will happen. Also very interesting how it seems the VC grow at all costs model might be running out of steam. Sparked me to read "It Doesn't Have to Be Crazy at Work" by Jason Fried and DHH, an excellent book describing how work should be and something to aim for. Thank you Dan!!!
+<br/><br/>
 <a href="https://www.goodreads.com/book/show/25663961-how-not-to-die" style="float: left; padding-right: 20px"><img border="0" alt="How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease" src="https://images.gr-assets.com/books/1436292289m/25663961.jpg" /></a><a href="https://www.goodreads.com/book/show/25663961-how-not-to-die">How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease</a> by <a href="https://www.goodreads.com/author/show/352513.Michael_Greger">Michael Greger</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/2484534479">5 of 5 stars</a><br /><br />
 This book changed everything about how I view food. It is a must read and I recommend to anyone interested in better health. His website nutritionfacts.org is amazing. Please get the word out and read this book. He's a great writer too!
