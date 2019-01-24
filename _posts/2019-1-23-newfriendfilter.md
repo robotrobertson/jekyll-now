@@ -12,5 +12,5 @@ I've moved to a new area and am looking for friends.  With my recent changes I'm
 6. Enjoys cooking.
 7. Health focused.
 8. All about adventure.
-
+<br>
 I realize this is a very, very small group of people.  Let's GO!
