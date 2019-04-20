@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Executive Lunch Personal Training Business Idea:
+title: Executive Lunch Personal Training Business Idea
 ---
 This may exist, but it certainly isn't oversaturated.  We all know we need to exercise for health benefits, increased energy, and greater quality of life.
 But for the busy executive, this is nearly impossible.  Mornings are possible if you get up REALLY early, but this is hard to stick to.  You could 
