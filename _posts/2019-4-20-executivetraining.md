@@ -1,5 +1,5 @@
 ---
-layout: post:
+layout: post
 title: Executive Lunch Personal Training Business Idea:
 ---
 This may exist, but it certainly isn't oversaturated.  We all know we need to exercise for health benefits, increased energy, and greater quality of life.
