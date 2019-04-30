@@ -2,7 +2,7 @@
 layout: post
 title: Whole Food Plant Based to treat common illness?
 ---
-This last weekend I went for a run Saturday and felt a little off.  As soon as I got home, my glands were swelling and I felt HORRIBLE. 
+This last weekend I went for a run Saturday and felt a little off.  As soon as I got home, my glands were swelling and I felt <b>HORRIBLE</b>. 
 Head cold that hit me like a Mack Truck.  As I am whole-food plant-based I wondered if there were certain foods that would help my ailment.  My typical routine
 with a head cold is to take Tylenol or Nyquil/Dayquil and rest as much as possible.  I thought to myself it probably isn't that good to be drinking alcohol with the 
 Nyquil, and Tylenol probably isn't that good for <i>healing</i> a cold.  I went on <a href="https://nutritionfacts.org">nutritionfacts.org</a> and searched common cold food remedies.  Lo and behold, Kiwi fruit has 
