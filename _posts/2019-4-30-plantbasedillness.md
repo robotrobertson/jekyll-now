@@ -5,7 +5,7 @@ title: Whole Food Plant Based to treat common illness?
 This last weekend I went for a run Saturday and felt a little off.  As soon as I got home, my glands were swelling and I felt HORRIBLE. 
 Head cold that hit me like a Mack Truck.  As I am whole-food plant-based I wondered if there were certain foods that would help my ailment.  My typical routine
 with a head cold is to take Tylenol or Nyquil/Dayquil and rest as much as possible.  I thought to myself it probably isn't that good to be drinking alcohol with the 
-Nyquil, and Tylenol probably isn't that good for healing a cold.  I went on <a href="https://nutritionfacts.org">nutritionfacts.org</a> and searched common cold food remedies.  Lo and behold, Kiwi fruit has 
+Nyquil, and Tylenol probably isn't that good for <b>healing</b> a cold.  I went on <a href="https://nutritionfacts.org">nutritionfacts.org</a> and searched common cold food remedies.  Lo and behold, Kiwi fruit has 
 been shown in tests to reduce the severity and duration of the common cold.  I read on Medical Medium garlic is a great healer as well.
 So I mashed up some garlic in a sweet potato and had some and went to the store and bought some organic Kiwis.  On Sunday night I had my first Kiwi in the evening.
 After I ate it, I immediately felt better.  Monday rolled around and I was still pretty sick.  By the end of the day after eating two more Kiwis, I felt pretty good.
