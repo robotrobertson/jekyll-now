@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Photos
 permalink: /Photos/
 ---
 
-![blue](/images/blue.jpg)
+![bike](/images/bike.jpg)
