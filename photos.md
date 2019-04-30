@@ -4,4 +4,4 @@ title: Photos
 permalink: /Photos/
 ---
 
-(/images/bike.jpg)
+![bike]
