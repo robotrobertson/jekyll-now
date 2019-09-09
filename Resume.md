@@ -8,7 +8,7 @@ Los Angeles, CA<br>
 [david@davidrobertson.co](mailto:david@davidrobertson.co)<br>
 <a href="tel:8055581568">805-558-1568</a><br><br>
 
-<b>Highlights</b>:<br>
+<b>Highlights:</b>:<br>
 19 years sales experience across different industries and disciplines<br>
 Open minded and self-accountable<br>
 Completed first Marathon October 2018<br>
@@ -16,17 +16,17 @@ Top performer and award winner at multiple companies<br>
 Not afraid to cold call to raise funds or generate prospects<br>
 Able to manage a territory or work inside sales<br><br>
 
-Skills:<br>
+<b>Skills:</b><br>
 Expert level at: Salesforce, Encompass, Optimal Blue, Velocify<br>
 Intermediate skill level: Microsoft Office, investment knowledge, sales (always learning), prospecting<br>
 Beginner skill level: HTML, CSS, Javascript, Google Analytics, Wordpress<br><br>
 
-Education/Licenses held:<br>
+<b>Education/Licenses held:</b><br>
 Cal Poly San Luis Obispo, B.S. Business graduated year 2000, finance concentration, Economics Minor<br>
 Series 7/66 Registered Investment Advisor (expired)<br>
 NMLS Mortgage License #251943 licensed in: AZ, CA, CT, DC, IL, IA, LA, MN, NM, TX, VA<br><br>
 
-Experience:<br>
+<b>Experience:</b><br>
 PennyMac Loan Services, LLC								                                 2017-Current<br>
 Senior Account Executive Inside Sales<br>
 Helped homeowners save money or consolidate debt through refinancing<br>
