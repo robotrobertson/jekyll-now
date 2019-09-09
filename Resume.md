@@ -27,52 +27,52 @@ Series 7/66 Registered Investment Advisor (expired)<br>
 NMLS Mortgage License #251943 licensed in: AZ,CA,OR,TX,VA<br>
 
 <b>Experience:</b><br>
-PennyMac Loan Services, LLC								                                 2017-Current<br>
+<i>PennyMac Loan Services, LLC								                                 2017-Current</i><br>
 Senior Account Executive Inside Sales<br>
 Helped homeowners save money or consolidate debt through refinancing<br>
 Consistent top funder in my group<br>
 Emphasized quality of file and very high pull-through<br>
 
-LenderFI												 2016-2017<br>
+<i>LenderFI												 2016-2017</i><br>
 Loan Originator	Inside Sales<br>						
 Originated refinances through LendingTree Leads<br>
 Helped train new hires with Encompass training and sales training<br>
 Consistent top funder<br>
 
-Bank of America				  					  		   2015-2016<br>
+<i>Bank of America				  					  		   2015-2016</i><br>
 Loan Originator, Outside Sales<br>
 Self-sourced purchase deals through realtors<br>
 Helped branch with refinances and HELOCs<br>
 
-Wells Fargo										        	 	         2014-2015<br>
+<i>Wells Fargo										        	 	         2014-2015</i><br>
 Private Mortgage Banker, Outside Sales<br>
 Partnered with Realtors to generate purchase deals<br>
 Helped borrowers go to conventional loans from FHA<br>
 
-PennyMac									              	         		         2012-2014<br>
+<i>PennyMac									              	         		         2012-2014</i><br>
 Senior Account Executive, Inside Sales<br>
 Helped homeowners save money or consolidate debt through refinancing<br>
 Consistent top funder in my group<br>
 Emphasized quality of file and very high pull through<br>
 
-Techees										         		         2010-2012<br>
+<i>Techees										         		         2010-2012</i><br>
 Senior Technical Recruiter<br>
 Used LinkedIn, cold calling and networking to attract top software engineers<br>
 Worked with Thumbtack, Palantir, Box, and many pre IPO startups<br>
 Learned computer programming languages to better assess candidates<br>
 
-Transamerica										         		         2008-2009<br>
+<i>Transamerica										         		         2008-2009</i><br>
 Wholesaler<br>
 Partnered with External wholesaler Florida territory<br>
 Provided sales solutions to brokers, financial planners, and CFP’s<br>
 
-Lehman Brothers									         		         2005-2008<br>
+<i>Lehman Brothers									         		         2005-2008</i><br>
 Account Executive<br>						
 Started at ground floor of wholesale division<br>
 At peak was funding 1 billion/month<br>
 Employee #3 of inside sales division grew to 30 employees helped train new hires<br>
 
-Jackson National						 			         		         2004-2005<br>
+<i>Jackson National						 			         		         2004-2005</i><br>
 Wholesaler<br>
 Managed Colorado and Kansas territory<br>
 Fixed and Fixed Indexed Annuities<br>
