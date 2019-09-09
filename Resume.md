@@ -19,12 +19,12 @@ Able to manage a territory or work inside sales<br>
 <b>Skills:</b><br>
 Expert level at: Salesforce, Encompass, Optimal Blue, Velocify<br>
 Intermediate skill level: Microsoft Office, investment knowledge, sales (always learning), prospecting<br>
-Beginner skill level: HTML, CSS, Javascript, Google Analytics, Wordpress<br><br>
+Beginner skill level: HTML, CSS, Javascript, Google Analytics, Wordpress<br>
 
 <b>Education/Licenses held:</b><br>
 Cal Poly San Luis Obispo, B.S. Business graduated year 2000, finance concentration, Economics Minor<br>
 Series 7/66 Registered Investment Advisor (expired)<br>
-NMLS Mortgage License #251943 licensed in: AZ, CA, CT, DC, IL, IA, LA, MN, NM, TX, VA<br><br>
+NMLS Mortgage License #251943 licensed in: AZ, CA, CT, DC, IL, IA, LA, MN, NM, TX, VA<br>
 
 <b>Experience:</b><br>
 PennyMac Loan Services, LLC								                                 2017-Current<br>
@@ -75,7 +75,7 @@ Employee #3 of inside sales division grew to 30 employees helped train new hires
 Jackson National						 			         		         2004-2005<br>
 Wholesaler<br>
 Managed Colorado and Kansas territory<br>
-Fixed and Fixed Indexed Annuities<br><br>
+Fixed and Fixed Indexed Annuities<br>
 
 <b>Extras:</b><br>
 Love spending time with my daughters and son<br>
