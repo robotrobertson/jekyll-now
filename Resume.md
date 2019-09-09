@@ -4,9 +4,9 @@ title: Resume
 permalink: /Resume/
 ---
 David Robertson
-Agoura Hills, CA
-cdrobertson@gmail.com
-805-558-1568
+Los Angeles, CA
+[david@davidrobertson.co](mailto:david@davidrobertson.co)
+<a href="tel:8055581568">805-558-1568</a>
 
 Highlights:
 19 years sales experience across different industries and disciplines
@@ -62,7 +62,7 @@ Worked with Thumbtack, Palantir, Box, and many pre IPO startups
 Learned computer programming languages to better assess candidates
 
 Transamerica										         		         2008-2009
-Internal Wholesaler
+Wholesaler
 Partnered with External wholesaler Florida territory
 Provided sales solutions to brokers, financial planners, and CFP’s
 
@@ -73,7 +73,7 @@ At peak was funding 1 billion/month
 Employee #3 of inside sales division grew to 30 employees helped train new hires
 
 Jackson National						 			         		         2004-2005
-Internal Wholesaler
+Wholesaler
 Managed Colorado and Kansas territory
 Fixed and Fixed Indexed Annuities
 
@@ -83,6 +83,6 @@ Enjoy blogging at davidrobertson.co
 Bicycle enthusiast
 Recreational runner
 
-[david@davidrobertson.co](mailto:david@davidrobertson.co)
 
-<a href="tel:8055581568">805-558-1568</a>
+
+
