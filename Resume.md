@@ -49,7 +49,7 @@ Private Mortgage Banker, Outside Sales<br>
 Partnered with Realtors to generate purchase deals<br>
 Helped borrowers go to conventional loans from FHA<br>
 
-<i>PennyMac									              	         		         2012-2014</i><br>
+<i>PennyMac Loan Services, LLC									              	         		         2012-2014</i><br>
 Senior Account Executive, Inside Sales<br>
 Helped homeowners save money or consolidate debt through refinancing<br>
 Consistent top funder in my group<br>
