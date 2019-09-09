@@ -79,6 +79,6 @@ Fixed and Fixed Indexed Annuities<br><br>
 
 Extras:<br>
 Love spending time with my daughters and son<br>
-Enjoy blogging at <a href="https://davidrobertson.co">davidrobertson.co</a><br>
+Enjoy blogging at <a href="https://www.davidrobertson.co">davidrobertson.co</a><br>
 Bicycle enthusiast<br>
 Recreational runner<br>
