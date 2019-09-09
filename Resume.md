@@ -33,13 +33,13 @@ Helped homeowners save money or consolidate debt through refinancing<br>
 Consistent top funder in my group<br>
 Emphasized quality of file and very high pull-through<br><br>
 
-LenderFI												Sept 2016-2017<br>
+LenderFI												 2016-2017<br>
 Loan Originator	Inside Sales<br>						
 Originated refinances through LendingTree Leads<br>
 Helped train new hires with Encompass training and sales training<br>
 Consistent top funder<br><br>
 
-Bank of America				  					  		  Jun 2015-2016<br>
+Bank of America				  					  		   2015-2016<br>
 Loan Originator, Outside Sales<br>
 Self-sourced purchase deals through realtors<br>
 Helped branch with refinances and HELOCs<br><br>
