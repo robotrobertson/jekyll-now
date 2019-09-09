@@ -24,7 +24,7 @@ Beginner skill level: HTML, CSS, Javascript, Google Analytics, Wordpress<br>
 <b>Education/Licenses held:</b><br>
 Cal Poly San Luis Obispo, B.S. Business graduated year 2000, finance concentration, Economics Minor<br>
 Series 7/66 Registered Investment Advisor (expired)<br>
-NMLS Mortgage License #251943 licensed in: AZ, CA, CT, DC, IL, IA, LA, MN, NM, TX, VA<br>
+NMLS Mortgage License #251943 licensed in: AZ,CA,OR,TX,VA<br>
 
 <b>Experience:</b><br>
 PennyMac Loan Services, LLC								                                 2017-Current<br>
