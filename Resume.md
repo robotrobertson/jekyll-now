@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: Resume:
 permalink: /Resume/
 ---
 David Robertson<br>
