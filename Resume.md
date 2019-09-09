@@ -14,7 +14,7 @@ Open minded and self-accountable<br>
 Completed first Marathon October 2018<br>
 Top performer and award winner at multiple companies<br>
 Not afraid to cold call to raise funds or generate prospects<br>
-Able to manage a territory or work inside sales<br><br>
+Able to manage a territory or work inside sales<br>
 
 <b>Skills:</b><br>
 Expert level at: Salesforce, Encompass, Optimal Blue, Velocify<br>
