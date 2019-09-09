@@ -8,7 +8,7 @@ Los Angeles, CA<br>
 [david@davidrobertson.co](mailto:david@davidrobertson.co)<br>
 <a href="tel:8055581568">805-558-1568</a><br><br>
 
-Highlights:<br>
+<b>Highlights</b>:<br>
 19 years sales experience across different industries and disciplines<br>
 Open minded and self-accountable<br>
 Completed first Marathon October 2018<br>
