@@ -27,7 +27,13 @@ Series 7/66 Registered Investment Advisor (expired)<br>
 NMLS Mortgage License #251943 licensed in: AZ,CA,OR,TX,VA<br>
 
 <b>Experience:</b><br>
-<i>PennyMac Loan Services, LLC								                                 2017-Current</i><br>
+<i>CIVIC Financial Services								                                 2019-Current</i><br>
+Account Executive<br>
+Prospected for broker business<br>
+Worked with fix and flip investors<br>
+Email marketed existing Realtor list<br>
+
+<i>PennyMac Loan Services, LLC								                                 2017-2019</i><br>
 Senior Account Executive Inside Sales<br>
 Helped homeowners save money or consolidate debt through refinancing<br>
 Consistent top funder in my group<br>
