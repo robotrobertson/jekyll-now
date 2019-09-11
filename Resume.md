@@ -68,7 +68,7 @@ Worked with Thumbtack, Palantir, Box, and many pre IPO startups<br>
 Learned computer programming languages to better assess candidates<br>
 
 <i>Transamerica										         		         2008-2009</i><br>
-Wholesaler<br>
+Internal Wholesaler<br>
 Partnered with External wholesaler Florida territory<br>
 Provided sales solutions to brokers, financial planners, and CFP’s<br>
 
