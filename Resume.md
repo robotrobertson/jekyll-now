@@ -64,6 +64,7 @@ Emphasized quality of file and very high pull through<br>
 <i>Techees										         		         2010-2012</i><br>
 Senior Technical Recruiter<br>
 Used LinkedIn, cold calling and networking to attract top software engineers<br>
+Worked with LinkedIn Recruiter, ATS JobVite, and Boolean search techniques<br>
 Worked with Thumbtack, Palantir, Box, and many pre IPO startups<br>
 Learned computer programming languages to better assess candidates<br>
 
@@ -75,7 +76,7 @@ Provided sales solutions to brokers, financial planners, and CFP’s<br>
 <i>Lehman Brothers									         		         2005-2008</i><br>
 Account Executive<br>						
 Started at ground floor of wholesale division<br>
-At peak was funding 1 billion/month<br>
+Went from 0 to funding 1 billion/month within two years!<br>
 Employee #3 of inside sales division grew to 30 employees helped train new hires<br>
 
 <i>Jackson National						 			         		         2004-2005</i><br>
