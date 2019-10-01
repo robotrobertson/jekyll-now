@@ -21,7 +21,7 @@ Los Angeles, CA<br> e: [david@davidrobertson.co](mailto:david@davidrobertson.co)
 * Series 7/66 Registered Investment Advisor (expired)
 * NMLS Mortgage License #251943 licensed in: AZ,CA,OR,TX,VA
 ## Experience:
-<i>CIVIC Financial Services								                                 2019-Current</i><br>
+<i><b>CIVIC Financial Services								                                 2019-Current</b><br>
 Account Executive<br>
 * Prospected for broker business<br>
 * Worked with fix and flip investors<br>
