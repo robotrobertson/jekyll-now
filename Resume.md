@@ -3,10 +3,10 @@ layout: page
 title: Resume
 permalink: /Resume/
 ---
-## David Robertson<br>
-## Los Angeles, CA<br>
-## [david@davidrobertson.co](mailto:david@davidrobertson.co)<br>
-## <a href="tel:8055581568">805-558-1568</a><br>
+# David Robertson<br>
+# Los Angeles, CA<br>
+# [david@davidrobertson.co](mailto:david@davidrobertson.co)<br>
+# <a href="tel:8055581568">805-558-1568</a><br>
 
 <b>Highlights:</b><br>
 * 19 years sales experience across different industries and disciplines<br>
