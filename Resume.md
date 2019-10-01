@@ -23,15 +23,15 @@ Los Angeles, CA<br> e: [david@davidrobertson.co](mailto:david@davidrobertson.co)
 ## Experience:
 <i>CIVIC Financial Services								                                 2019-Current</i><br>
 Account Executive<br>
-Prospected for broker business<br>
-Worked with fix and flip investors<br>
-Email marketed existing Realtor list<br>
+* Prospected for broker business<br>
+* Worked with fix and flip investors<br>
+* Email marketed existing Realtor list<br>
 
 <i>PennyMac Loan Services, LLC								                                 2017-2019</i><br>
 Senior Account Executive Inside Sales<br>
-Helped homeowners save money or consolidate debt through refinancing<br>
-Consistent top funder in my group<br>
-Emphasized quality of file and very high pull-through<br>
+* Helped homeowners save money or consolidate debt through refinancing<br>
+* Consistent top funder in my group<br>
+* Emphasized quality of file and very high pull-through<br>
 
 <i>LenderFI												 2016-2017</i><br>
 Loan Originator	Inside Sales<br>						
