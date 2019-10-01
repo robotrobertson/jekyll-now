@@ -79,7 +79,7 @@ Managed Colorado and Kansas territory<br>
 Fixed and Fixed Indexed Annuities<br>
 
 ## Extras:
-* Love spending time with my daughters and son<br>
-* Enjoy blogging at <a href="http://www.davidrobertson.co">davidrobertson.co</a><br>
-* Bicycle enthusiast<br>
-* Recreational runner<br>
+* Love spending time with my daughters and son
+* Enjoy blogging at <a href="http://www.davidrobertson.co">davidrobertson.co</a>
+* Bicycle enthusiast
+* Recreational runner
