@@ -17,16 +17,16 @@ permalink: /Resume/
 * Able to manage a territory or work inside sales<br>
 
 <b>Skills:</b><br>
-Expert level at: Salesforce, Encompass, Optimal Blue, Velocify<br>
-Intermediate skill level: Microsoft Office, investment knowledge, sales (always learning), prospecting<br>
-Beginner skill level: HTML, CSS, Javascript, Google Analytics, Wordpress<br>
+* Expert level at: Salesforce, Encompass, Optimal Blue, Velocify<br>
+* Intermediate skill level: Microsoft Office, investment knowledge, sales (always learning), prospecting<br>
+* Beginner skill level: HTML, CSS, Javascript, Google Analytics, Wordpress<br>
 
 <b>Education/Licenses held:</b><br>
-Cal Poly San Luis Obispo, B.S. Business graduated year 2000, finance concentration, Economics Minor<br>
-Series 7/66 Registered Investment Advisor (expired)<br>
-NMLS Mortgage License #251943 licensed in: AZ,CA,OR,TX,VA<br>
+* Cal Poly San Luis Obispo, B.S. Business graduated year 2000, finance concentration, Economics Minor<br>
+* Series 7/66 Registered Investment Advisor (expired)<br>
+* NMLS Mortgage License #251943 licensed in: AZ,CA,OR,TX,VA<br>
 
-<b>Experience:</b><br>
+<b>## Experience:</b><br>
 <i>CIVIC Financial Services								                                 2019-Current</i><br>
 Account Executive<br>
 Prospected for broker business<br>
