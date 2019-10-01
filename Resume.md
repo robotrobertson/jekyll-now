@@ -9,12 +9,12 @@ Los Angeles, CA<br>
 <a href="tel:8055581568">805-558-1568</a><br>
 
 <b>Highlights:</b><br>
-19 years sales experience across different industries and disciplines<br>
-Open minded and self-accountable<br>
-Completed first Marathon October 2018<br>
-Top performer and award winner at multiple companies<br>
-Not afraid to cold call to raise funds or generate prospects<br>
-Able to manage a territory or work inside sales<br>
+* 19 years sales experience across different industries and disciplines<br>
+* Open minded and self-accountable<br>
+* Completed first Marathon October 2018<br>
+* Top performer and award winner at multiple companies<br>
+* Not afraid to cold call to raise funds or generate prospects<br>
+* Able to manage a territory or work inside sales<br>
 
 <b>Skills:</b><br>
 Expert level at: Salesforce, Encompass, Optimal Blue, Velocify<br>
