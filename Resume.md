@@ -19,7 +19,7 @@ permalink: /Resume/
 * Intermediate skill level: Microsoft Office, investment knowledge, sales (always learning), prospecting<br>
 * Beginner skill level: HTML, CSS, Javascript, Google Analytics, Wordpress<br>
 ## Education/Licenses held:
-* Cal Poly San Luis Obispo, B.S. Business graduated year 2000, finance concentration, Economics Minor<br>
+* Cal Poly San Luis Obispo, B.S. Business 2000, finance concentration, Economics Minor<br>
 * Series 7/66 Registered Investment Advisor (expired)<br>
 * NMLS Mortgage License #251943 licensed in: AZ,CA,OR,TX,VA<br>
 ## Experience:
