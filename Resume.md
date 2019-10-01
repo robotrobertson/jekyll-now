@@ -84,8 +84,8 @@ Wholesaler<br>
 Managed Colorado and Kansas territory<br>
 Fixed and Fixed Indexed Annuities<br>
 
-<b>Extras:</b><br>
-Love spending time with my daughters and son<br>
-Enjoy blogging at <a href="http://www.davidrobertson.co">davidrobertson.co</a><br>
-Bicycle enthusiast<br>
-Recreational runner<br>
+## Extras:
+* Love spending time with my daughters and son<br>
+* Enjoy blogging at <a href="http://www.davidrobertson.co">davidrobertson.co</a><br>
+* Bicycle enthusiast<br>
+* Recreational runner<br>
