@@ -27,7 +27,7 @@ Account Executive<br>
 * Worked with fix and flip investors<br>
 * Email marketed existing Realtor list<br>
 
-<b>PennyMac Loan Services, LLC</b>								                                 2017-2019<br>
+<b>PennyMac Loan Services, LLC								                                 2017-2019</b><br>
 Senior Account Executive Inside Sales<br>
 * Helped homeowners save money or consolidate debt through refinancing<br>
 * Consistent top funder in my group<br>
