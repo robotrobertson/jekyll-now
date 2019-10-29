@@ -3,7 +3,7 @@ layout: page
 title: Resume
 permalink: /Resume/
 ---
-## <a href="http://www.davidrobertson.co">David Robertson</a>
+## <a href="https://www.davidrobertson.co">David Robertson</a>
 Los Angeles, CA<br> e: [david@davidrobertson.co](mailto:david@davidrobertson.co)<br>p: <a href="tel:8055581568">805-558-1568</a>
 ## Highlights:
 * 19 years sales experience across different industries and disciplines<br>
@@ -80,6 +80,6 @@ Wholesaler<br>
 
 ## Extras:
 * Love spending time with my daughters and son
-* Enjoy blogging at <a href="http://www.davidrobertson.co">davidrobertson.co</a>
+* Enjoy blogging at <a href="https://www.davidrobertson.co">davidrobertson.co</a>
 * Bicycle enthusiast
 * Recreational runner
