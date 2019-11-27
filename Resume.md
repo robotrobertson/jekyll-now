@@ -23,7 +23,7 @@ Los Angeles, CA<br> e: [david@davidrobertson.co](mailto:david@davidrobertson.co)
 ## Experience:
 
 <b>loanDepot.com LLC								                                 2019-Current</b><br>
-Loan Consultant<a href="http://https://www.loandepot.com/loan-officers/dcrobertson?">website</a><br>
+<a href="http://https://www.loandepot.com/loan-officers/dcrobertson?">Loan Consultant</a><br>
 * Partnered with Realtors to prequalify borrowers<br>
 * Helped borrowers improve their homes through cashout refinancing<br>
 * Implemented video for marketing with Vidyard and Salesforce<br>
@@ -40,47 +40,47 @@ Senior Account Executive Inside Sales<br>
 * Consistent top funder in my group<br>
 * Emphasized quality of file and very high pull-through<br>
 
-<b>LenderFI												 2016-2017</i><br>
+<b>LenderFI												 2016-2017</b><br>
 Loan Originator	Inside Sales<br>						
 * Originated refinances through LendingTree Leads<br>
 * Helped train new hires with Encompass training and sales training<br>
 * Consistent top funder<br>
 
-<b>Bank of America				  					  		   2015-2016</i><br>
+<b>Bank of America				  					  		   2015-2016</b><br>
 Loan Originator, Outside Sales<br>
 * Self-sourced purchase deals through realtors<br>
 * Helped branch with refinances and HELOCs<br>
 
-<b>Wells Fargo										        	 	         2014-2015</i><br>
+<b>Wells Fargo										        	 	         2014-2015</b><br>
 Private Mortgage Banker, Outside Sales<br>
 * Partnered with Realtors to generate purchase deals<br>
 * Helped borrowers go to conventional loans from FHA<br>
 
-<b>PennyMac Loan Services, LLC									              	         		         2012-2014</i><br>
+<b>PennyMac Loan Services, LLC									              	         		         2012-2014</b><br>
 Senior Account Executive, Inside Sales<br>
 * Helped homeowners save money or consolidate debt through refinancing<br>
 * Consistent top funder in my group<br>
 * Emphasized quality of file and very high pull through<br>
 
-<b>Techees										         		         2010-2012</i><br>
+<b>Techees										         		         2010-2012</b><br>
 Senior Technical Recruiter<br>
 * Used LinkedIn, cold calling and networking to attract top software engineers<br>
 * Worked with LinkedIn Recruiter, ATS JobVite, and Boolean search techniques<br>
 * Partnered with Thumbtack, Palantir, Box, and many pre IPO startups<br>
 * Learned computer programming languages to better assess candidates<br>
 
-<b>Transamerica										         		         2008-2009</i><br>
+<b>Transamerica										         		         2008-2009</b><br>
 Internal Wholesaler<br>
 * Partnered with External wholesaler Florida territory<br>
 * Provided sales solutions to brokers, financial planners, and CFP’s<br>
 
-<b>Lehman Brothers									         		         2005-2008</i><br>
+<b>Lehman Brothers									         		         2005-2008</b><br>
 Account Executive<br>						
 * Started at ground floor of wholesale division<br>
 * Went from 0 to funding 1 billion/month within two years!<br>
 * Employee #3 of inside sales division grew to 30 employees helped train new hires<br>
 
-<b>Jackson National						 			         		         2004-2005</i><br>
+<b>Jackson National						 			         		         2004-2005</b><br>
 Wholesaler<br>
 * Managed Colorado and Kansas territory<br>
 * Fixed and Fixed Indexed Annuities<br>
