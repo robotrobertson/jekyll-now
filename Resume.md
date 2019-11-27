@@ -21,13 +21,11 @@ Los Angeles, CA<br> e: [david@davidrobertson.co](mailto:david@davidrobertson.co)
 * Series 7/66 Registered Investment Advisor (expired)
 * NMLS Mortgage License #251943 licensed in: AZ,CA,OR,TX,VA
 ## Experience:
-
 <b>loanDepot.com LLC								                                 2019-Current</b><br>
 <a href="http://https://www.loandepot.com/loan-officers/dcrobertson?">Loan Consultant</a><br>
 * Partnered with Realtors to prequalify borrowers<br>
 * Helped borrowers improve their homes through cashout refinancing<br>
 * Implemented video for marketing with Vidyard and Salesforce<br>
-
 <b>CIVIC Financial Services								                                 2019-2019</b><br>
 Account Executive<br>
 * Prospected for broker business<br>
