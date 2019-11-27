@@ -26,6 +26,7 @@ Los Angeles, CA<br> e: [david@davidrobertson.co](mailto:david@davidrobertson.co)
 * Partnered with Realtors to prequalify borrowers<br>
 * Helped borrowers improve their homes through cashout refinancing<br>
 * Implemented video for marketing with Vidyard and Salesforce<br>
+
 <b>CIVIC Financial Services								                                 2019-2019</b><br>
 Account Executive<br>
 * Prospected for broker business<br>
