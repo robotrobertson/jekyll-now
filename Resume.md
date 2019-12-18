@@ -19,7 +19,7 @@ Los Angeles, CA<br> e: [david@davidrobertson.co](mailto:david@davidrobertson.co)
 ## Education/Licenses held:
 * Cal Poly San Luis Obispo, B.S. Business, finance concentration, Economics Minor
 * Series 7/66 Registered Investment Advisor (expired)
-* NMLS Mortgage License #251943 licensed in: AZ,CA,OR,TX,VA
+* NMLS Mortgage License #251943 licensed in: CA
 ## Experience:
 <b>loanDepot.com LLC								                                 2019-Current</b><br>
 <a href="https://www.loandepot.com/loan-officers/dcrobertson" target="_blank">Loan Consultant</a><br>
