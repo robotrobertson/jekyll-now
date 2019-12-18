@@ -15,7 +15,7 @@ Los Angeles, CA<br> e: [david@davidrobertson.co](mailto:david@davidrobertson.co)
 ## Skills:
 * Expert level at: Salesforce, Encompass, Optimal Blue, Velocify
 * Intermediate skill level: Microsoft Office, investment knowledge, sales (always learning), prospecting
-* Beginner skill level: HTML, CSS, Javascript, Google Analytics, Wordpress
+* Beginner skill level: HTML, CSS, Javascript, React, Google Analytics, Wordpress
 ## Education/Licenses held:
 * Cal Poly San Luis Obispo, B.S. Business, finance concentration, Economics Minor
 * Series 7/66 Registered Investment Advisor (expired)
