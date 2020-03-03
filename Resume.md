@@ -29,7 +29,7 @@ Los Angeles, CA<br> e: [david@davidrobertson.co](mailto:david@davidrobertson.co)
 * Exciting things to come!<br>
 
 <b>loanDepot.com LLC								                                 2019-2020</b><br>
-<a href="https://www.loandepot.com/loan-officers/dcrobertson" target="_blank">Loan Consultant</a><br>
+* Loan Consultant<br>
 * Partnered with Realtors to prequalify borrowers<br>
 * Helped borrowers improve their homes through cashout refinancing<br>
 * Implemented video for marketing with Vidyard and Salesforce<br>
