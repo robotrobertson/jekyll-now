@@ -22,7 +22,7 @@ Los Angeles, CA<br> e: [david@davidrobertson.co](mailto:david@davidrobertson.co)
 * NMLS Mortgage License #251943 licensed in: CA
 ## Experience:
 <b>HMS Capital								                                        2020-Current</b><br>
-<a href="https://hmscapital.com/" target="_blank">Loan Officer</a><br>
+<a href="https://drobertson.gemcorp.com/" target="_blank">Loan Officer</a><br>
 * 0 appraisal and 0 credit report fees
 * Helped borrowers "double-app" to ensure borrowers get the best deal
 * Hire #3 of the direct team<br>
