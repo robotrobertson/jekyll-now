@@ -6,21 +6,16 @@ permalink: /Resume/
 ## <a href="http://www.davidrobertson.co">David Robertson</a>
 Los Angeles, CA<br> e: [david@davidrobertson.co](mailto:david@davidrobertson.co)<br>p: <a href="tel:8055581568">805-558-1568</a>
 ## Highlights:
-* 19 years sales experience across different industries and disciplines<br>
 * Open minded and self-accountable<br>
 * Completed first Marathon October 2018<br>
 * Top performer and award winner at multiple companies<br>
-* Not afraid to cold call to raise funds or generate prospects<br>
-* Able to manage a territory or work inside sales
 ## Skills:
-* Expert level at: Salesforce, Encompass, Optimal Blue, Velocify
-* Intermediate skill level: Microsoft Office, investment knowledge, sales (always learning), prospecting
-* Beginner skill level: HTML, CSS, Javascript, React, Google Analytics, Wordpress
+* HTML, CSS, Javascript, React, Google Analytics, Wordpress
 ## Education/Licenses held:
 * Cal Poly San Luis Obispo, B.S. Business, finance concentration, Economics Minor
 ## Experience:
 
-<b>HMS Capital								                                        2020-Current</b><br>
+<b>HMS Capital								                                        2020-2020</b><br>
 Loan Officer<br>
 * 0 appraisal and 0 credit report fees
 * Helped borrowers "double-app" to ensure borrowers get the best deal
