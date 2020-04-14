@@ -19,12 +19,12 @@ Los Angeles, CA<br> e: [david@davidrobertson.co](mailto:david@davidrobertson.co)
 ## Education/Licenses held:
 * Cal Poly San Luis Obispo, B.S. Business, finance concentration, Economics Minor
 ## Experience:
+
 <b>HMS Capital								                                        2020-Current</b><br>
 Loan Officer<br>
 * 0 appraisal and 0 credit report fees
 * Helped borrowers "double-app" to ensure borrowers get the best deal
 * Hire #3 of the direct team<br>
-* Exciting things to come!<br>
 
 <b>loanDepot.com LLC								                                 2019-2020</b><br>
 Loan Consultant<br>
